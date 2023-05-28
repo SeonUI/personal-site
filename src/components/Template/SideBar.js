@@ -42,6 +42,7 @@ const SideBar = () => {
         </Markdown>
       </section>
       <div className="email-at">
+        <h2>contact</h2>
         <p>You can email me at: </p>
         <p>ksw135468@gmail.com </p>
         <p>zxc135468@g.skku.edu </p>
