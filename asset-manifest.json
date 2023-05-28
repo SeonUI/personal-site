@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/SeonUI/SeonUI.github.io/static/css/main.d564fd31.css",
-    "main.js": "/SeonUI/SeonUI.github.io/static/js/main.3fc5dfa4.js",
-    "static/js/851.2b7eb0dc.chunk.js": "/SeonUI/SeonUI.github.io/static/js/851.2b7eb0dc.chunk.js",
+    "main.js": "/SeonUI/SeonUI.github.io/static/js/main.660a9e8a.js",
+    "static/js/964.cce44ac2.chunk.js": "/SeonUI/SeonUI.github.io/static/js/964.cce44ac2.chunk.js",
     "static/js/562.f68d2133.chunk.js": "/SeonUI/SeonUI.github.io/static/js/562.f68d2133.chunk.js",
     "static/js/478.cb7096f1.chunk.js": "/SeonUI/SeonUI.github.io/static/js/478.cb7096f1.chunk.js",
     "static/js/922.950c5cf1.chunk.js": "/SeonUI/SeonUI.github.io/static/js/922.950c5cf1.chunk.js",
     "static/js/675.efdd023b.chunk.js": "/SeonUI/SeonUI.github.io/static/js/675.efdd023b.chunk.js",
     "static/js/209.04592873.chunk.js": "/SeonUI/SeonUI.github.io/static/js/209.04592873.chunk.js",
-    "static/js/625.c93a4c03.chunk.js": "/SeonUI/SeonUI.github.io/static/js/625.c93a4c03.chunk.js",
+    "static/js/625.83f5c507.chunk.js": "/SeonUI/SeonUI.github.io/static/js/625.83f5c507.chunk.js",
     "index.html": "/SeonUI/SeonUI.github.io/index.html",
-    "static/media/about.md": "/SeonUI/SeonUI.github.io/static/media/about.cd71378eb06bc2e9d307.md",
+    "static/media/about.md": "/SeonUI/SeonUI.github.io/static/media/about.6773fd6767bfb29fd804.md",
     "main.d564fd31.css.map": "/SeonUI/SeonUI.github.io/static/css/main.d564fd31.css.map",
-    "main.3fc5dfa4.js.map": "/SeonUI/SeonUI.github.io/static/js/main.3fc5dfa4.js.map",
-    "851.2b7eb0dc.chunk.js.map": "/SeonUI/SeonUI.github.io/static/js/851.2b7eb0dc.chunk.js.map",
+    "main.660a9e8a.js.map": "/SeonUI/SeonUI.github.io/static/js/main.660a9e8a.js.map",
+    "964.cce44ac2.chunk.js.map": "/SeonUI/SeonUI.github.io/static/js/964.cce44ac2.chunk.js.map",
     "562.f68d2133.chunk.js.map": "/SeonUI/SeonUI.github.io/static/js/562.f68d2133.chunk.js.map",
     "478.cb7096f1.chunk.js.map": "/SeonUI/SeonUI.github.io/static/js/478.cb7096f1.chunk.js.map",
     "922.950c5cf1.chunk.js.map": "/SeonUI/SeonUI.github.io/static/js/922.950c5cf1.chunk.js.map",
@@ -22,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.d564fd31.css",
-    "static/js/main.3fc5dfa4.js"
+    "static/js/main.660a9e8a.js"
   ]
 }
