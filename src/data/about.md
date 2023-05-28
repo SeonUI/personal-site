@@ -16,7 +16,6 @@ I'm a sophomore in SungKyunKwan University, College of Computing and Informatics
 - System Programming
 - Data Structure
 - Algoritms
-
 - Calculus
 - Physics
 - Linear Algebra
